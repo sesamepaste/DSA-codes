@@ -1,0 +1,4 @@
+Dijkstras approaches
+	1) Dummy nodes that represent sets wrt another node (Mirroring the important nodes) (used to reduce edges/complexity)
+	2) Make a copy of graph in decision problem
+	3) Try giving different weights in BFS problem (Try 0/1 for not permitted/permitted etc)
